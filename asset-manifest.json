@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/resort-saint/static/css/main.f84c8022.css",
+    "main.js": "/resort-saint/static/js/main.41cbffd0.js",
+    "static/js/787.478f98d5.chunk.js": "/resort-saint/static/js/787.478f98d5.chunk.js",
+    "index.html": "/resort-saint/index.html",
+    "main.f84c8022.css.map": "/resort-saint/static/css/main.f84c8022.css.map",
+    "main.41cbffd0.js.map": "/resort-saint/static/js/main.41cbffd0.js.map",
+    "787.478f98d5.chunk.js.map": "/resort-saint/static/js/787.478f98d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f84c8022.css",
+    "static/js/main.41cbffd0.js"
+  ]
+}
