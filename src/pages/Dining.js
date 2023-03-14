@@ -21,7 +21,7 @@ export default function Dining(){
 
 
             <div className="cuisine">
-            <img src="./france.png" alt='flag' className="flag"/>
+            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1920px-Flag_of_France.svg.png" alt='flag' className="flag"/>
                 <div className="card--body">
                     <h2 className="card--name">French</h2>
                     <p className="card--description">French cuisine is known for its elegance and sophistication, with a focus on using high-quality ingredients to create flavorful dishes. Classic French dishes include coq au vin, beef bourguignon, and escargots, while desserts like crème brûlée and tarte tatin are also popular.</p>
